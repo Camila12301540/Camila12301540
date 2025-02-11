@@ -1,7 +1,9 @@
 👋 Oi meu nome é Camila Moura
 
 Estou cursando o 3° ano do Ensino Médio em técnico em informática
+
 Linguagens: C#, HTML e CSS, e Javascript
+
 Banco de Dados: SQL
 
 <!---
