@@ -1,6 +1,6 @@
-# Olá, sou a Camila Moura! 
+# Olá, sou a Camila Moura.
 
-Sou estudante do 3º ano do Ensino Médio Técnico em Informática.
+Sou estudante do 1º período de Ciências da Computação na Fumec.
 
 ## Linguagens de Programação
 
